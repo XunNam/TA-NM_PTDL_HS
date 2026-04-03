@@ -1,0 +1,6 @@
+Exercise 10 - Verb similarity
+Demo call: exercise_10_verb_similarity()
+
+Pair: run.v.01 vs walk.v.01
+Path similarity: 0.25
+Wu-Palmer similarity: 0.2857142857142857

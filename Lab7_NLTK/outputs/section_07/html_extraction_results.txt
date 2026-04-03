@@ -1,0 +1,12 @@
+================================================================================
+SECTION 07 - HTML EXTRACTION
+================================================================================
+Source URL: http://news.bbc.co.uk/2/hi/health/2284783.stm
+Fallback used: no
+Extracted text length: 3586 characters
+Token count: 740
+NLTK Text length: 740
+Saved HTML: /home/buitheanh/Documents/PTDLHS - TH/LAB7/Lab7_NLTK/data/downloaded/section_07_source_page.html
+
+Preview:
+NEWS SPORT WEATHER WORLD SERVICE A-Z INDEX SEARCH You are in : Health News Front Page Africa Americas Asia-Pacific Europe Middle East South Asia UK Business Entertainment Science/Nature Technology Health Medical notes -- -- -- -- -- -- - Talking Point -- -- -- -- -- -- - Country Profiles In Depth -- -- -- -- -- -- - Programmes -- -- -- -- -- -- - SERVICES Daily E-mail News Ticker Mobile/PDAs -- -- -- -- -- -- -

@@ -1,0 +1,9 @@
+================================================================================
+SECTION 06 - WEB TEXT
+================================================================================
+Source URL: https://www.gutenberg.org/files/2554/2554-0.txt
+Fallback used: no
+Token count: 253687
+First 12 tokens: ['*', '*', '*', 'START', 'OF', 'THE', 'PROJECT', 'GUTENBERG', 'EBOOK', '2554', '*', '*']
+NLTK Text length: 253687
+Saved raw text: /home/buitheanh/Documents/PTDLHS - TH/LAB7/Lab7_NLTK/data/downloaded/section_06_web_text.txt

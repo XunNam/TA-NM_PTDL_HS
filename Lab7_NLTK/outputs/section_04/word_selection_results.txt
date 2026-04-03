@@ -1,0 +1,8 @@
+================================================================================
+SECTION 04 - WORD SELECTION
+================================================================================
+Words longer than 12 characters (11 items):
+assassination, chamberlaines, commendations, distinguishes, gallowgrosses, metaphysicall, multitudinous, northumberland, supernaturall, vnaccompanied, voluptuousnesse
+
+Words containing 'ious' (18 items):
+auaricious, compunctious, furious, gracious, industrious, iudicious, luxurious, malicious, obliuious, pernicious, pernitious, pious, precious, rebellious, sacrilegious, serious, spacious, tedious

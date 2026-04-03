@@ -1,0 +1,21 @@
+Exercise 01 - List NLTK corpora
+Demo call: exercise_01_list_corpora()
+
+Discovered LazyCorpusLoader entries: 0
+Preview: 
+
+Accessible common corpora:
+gutenberg
+stopwords
+movie_reviews
+names
+wordnet
+
+Unavailable common corpora in this environment:
+brown
+reuters
+inaugural
+state_union
+webtext
+genesis
+abc

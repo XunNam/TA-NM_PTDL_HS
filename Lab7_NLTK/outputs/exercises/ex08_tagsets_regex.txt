@@ -1,0 +1,18 @@
+Exercise 08 - Tagsets and regex filtering
+Demo call: exercise_08_tagsets_regex()
+
+Total tags in the loaded map: 45
+Regex pattern: ^(NN|VB|JJ)
+Matching tags: ['JJ', 'JJR', 'JJS', 'NN', 'NNP', 'NNPS', 'NNS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
+
+Details for NN:
+NN: noun, common, singular or mass
+Examples: common-carrier cabbage knuckle-duster Casino afghan shed thermostat investment slide humour falloff slick wind hyena override subhumanity machinist ... 
+
+Details for VB:
+VB: verb, base form
+Examples: ask assemble assess assign assume atone attention avoid bake balkanize bank begin behold believe bend benefit bevel beware bless boil bomb boost brace break bring broil brush build ... 
+
+Details for JJ:
+JJ: adjective or numeral, ordinal
+Examples: third ill-mannered pre-war regrettable oiled calamitous first separable ectoplasmic battery-powered participatory fourth still-to-be-named multilingual multi-disciplinary ... 

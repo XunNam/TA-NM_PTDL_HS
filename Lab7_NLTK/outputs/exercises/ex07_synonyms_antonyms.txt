@@ -1,0 +1,6 @@
+Exercise 07 - Synonyms and antonyms
+Demo call: exercise_07_synonyms_antonyms()
+
+Target word: good
+Synonyms (37): ['adept', 'beneficial', 'commodity', 'dear', 'dependable', 'effective', 'estimable', 'expert', 'full', 'good', 'goodness', 'honest', 'honorable', 'in effect', 'in force', 'just', 'near', 'practiced', 'proficient', 'respectable', 'right', 'ripe', 'safe', 'salutary', 'secure', 'serious', 'skilful', 'skillful', 'sound', 'soundly', 'thoroughly', 'trade good', 'undecomposed', 'unspoiled', 'unspoilt', 'upright', 'well']
+Antonyms (5): ['bad', 'badness', 'evil', 'evilness', 'ill']

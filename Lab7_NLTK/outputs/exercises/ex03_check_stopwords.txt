@@ -1,0 +1,18 @@
+Exercise 03 - Check multilingual stopwords
+Demo call: exercise_03_check_stopwords()
+
+Language: english
+Stopword count: 198
+Preview: a, about, above, after, again, against, ain, all, am, an, and, any, are, aren, aren't, as, at, be, because, been
+
+Language: french
+Stopword count: 157
+Preview: au, aux, avec, ce, ces, dans, de, des, du, elle, en, et, eux, il, ils, je, la, le, les, leur
+
+Language: german
+Stopword count: 232
+Preview: aber, alle, allem, allen, aller, alles, als, also, am, an, ander, andere, anderem, anderen, anderer, anderes, anderm, andern, anderr, anders
+
+Language: spanish
+Stopword count: 313
+Preview: de, la, que, el, en, y, a, los, del, se, las, por, un, para, con, no, una, su, al, lo

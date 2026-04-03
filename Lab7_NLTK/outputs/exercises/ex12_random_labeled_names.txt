@@ -1,0 +1,20 @@
+Exercise 12 - Random labeled names
+Demo call: exercise_12_random_labeled_names()
+
+Random seed: 42
+First 15 shuffled (name, label) pairs:
+('Raye', 'female')
+('Marita', 'female')
+('Fey', 'female')
+('Vittoria', 'female')
+('Dannie', 'female')
+('Annabela', 'female')
+('Sayre', 'male')
+('Brock', 'male')
+('Angel', 'female')
+('Bride', 'female')
+('Ruthanne', 'female')
+('Davina', 'female')
+('Kingsley', 'male')
+('Trixy', 'female')
+('Shaine', 'female')

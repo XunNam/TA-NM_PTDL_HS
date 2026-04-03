@@ -1,0 +1,38 @@
+================================================================================
+SECTION 03 - FREQUENCY ANALYSIS
+================================================================================
+Top 10 tokens in raw Macbeth text:
+ 1. , -> 1962
+ 2. . -> 1235
+ 3. ' -> 637
+ 4. the -> 531
+ 5. : -> 477
+ 6. and -> 376
+ 7. I -> 333
+ 8. of -> 315
+ 9. to -> 311
+10. ? -> 241
+
+Top 10 tokens after removing English stopwords:
+ 1. , -> 1962
+ 2. . -> 1235
+ 3. ' -> 637
+ 4. : -> 477
+ 5. ? -> 241
+ 6. macb -> 137
+ 7. haue -> 122
+ 8. - -> 100
+ 9. thou -> 90
+10. enter -> 81
+
+Top 10 tokens after removing stopwords and punctuation:
+ 1. macb -> 137
+ 2. haue -> 122
+ 3. thou -> 90
+ 4. enter -> 81
+ 5. shall -> 68
+ 6. macbeth -> 62
+ 7. vpon -> 62
+ 8. thee -> 61
+ 9. macd -> 58
+10. vs -> 57

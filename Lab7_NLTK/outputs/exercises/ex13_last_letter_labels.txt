@@ -1,0 +1,8 @@
+Exercise 13 - Last-letter labels
+Demo call: exercise_13_last_letter_labels()
+
+Total pairs: 7944
+Preview: [('r', 'male'), ('n', 'male'), ('y', 'male'), ('e', 'male'), ('t', 'male'), ('t', 'male'), ('y', 'male'), ('l', 'male'), ('l', 'male'), ('m', 'male'), ('h', 'male'), ('e', 'male'), ('l', 'male'), ('d', 'male'), ('r', 'male'), ('m', 'male'), ('m', 'male'), ('e', 'male'), ('r', 'male'), ('m', 'male')]
+
+Top male last letters: [('n', 478), ('e', 468), ('y', 332), ('s', 230), ('d', 228), ('r', 190), ('l', 187), ('o', 165), ('t', 164), ('h', 93)]
+Top female last letters: [('a', 1773), ('e', 1432), ('y', 461), ('n', 386), ('i', 317), ('l', 179), ('h', 105), ('s', 93), ('t', 68), ('r', 47)]

@@ -1,0 +1,8 @@
+Exercise 05 - Custom stopword filtering
+Demo call: exercise_05_custom_stopwords()
+
+Interpretation used in this project:
+Remove selected items from the default English stopword list, then filter the text.
+Removed from stopword list: ['from', 'no', 'not']
+Original text: We do not ignore the words no and not because they can change the meaning of a sentence from positive to negative.
+Filtered tokens: ['not', 'ignore', 'words', 'no', 'not', 'change', 'meaning', 'sentence', 'from', 'positive', 'negative']

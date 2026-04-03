@@ -1,0 +1,5 @@
+Exercise 04 - Remove stopwords from input text
+Demo call: exercise_04_remove_stopwords()
+
+Original text: NLTK makes it easier to process text, remove stopwords, and inspect meaningful words in a sentence.
+Filtered tokens: ['nltk', 'makes', 'easier', 'process', 'text', 'remove', 'stopwords', 'inspect', 'meaningful', 'words', 'sentence']

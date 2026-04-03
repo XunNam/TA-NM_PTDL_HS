@@ -1,0 +1,14 @@
+Exercise 06 - WordNet definitions and examples
+Demo call: exercise_06_wordnet_definition_example()
+
+Stable interpretation used in this project:
+Use NLTK WordNet instead of scraping external sites.
+Target word: computer
+Synset count: 2
+
+1. Synset: computer.n.01
+   Definition: a machine for performing calculations automatically
+   Examples: ['(No example sentence available.)']
+2. Synset: calculator.n.01
+   Definition: an expert at calculation (or at operating calculating machines)
+   Examples: ['(No example sentence available.)']

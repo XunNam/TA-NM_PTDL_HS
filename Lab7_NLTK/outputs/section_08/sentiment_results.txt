@@ -1,0 +1,28 @@
+================================================================================
+SECTION 08 - SENTIMENT ANALYSIS
+================================================================================
+Random seed: 42
+Total documents: 2000
+Train set size: 1500
+Test set size: 500
+Unique word features tracked: 39768
+
+Sample review preview:
+mr . bean , a bumbling security guard from england is sent to la to help with the grandiose homecoming of a masterpiece american painting . the first two words should have said enough to let you know what occurs during bean ' s trip to la , but if they didn ' t look out because you are in for a rather interesting if not odd ride . heck depending on your humor you might end up laughing through the whole flick . either way look out america bean is coming . well , what can really be said about this movie , there is very little discernible plot . that much is not hard to grapple with for
+
+Actual label: neg
+Predicted label: neg
+Accuracy: 0.7120
+
+Top 10 informative features:
+Most Informative Features
+       contains(idiotic) = True              neg : pos    =     16.9 : 1.0
+     contains(stupidity) = True              neg : pos    =     14.9 : 1.0
+   contains(wonderfully) = True              pos : neg    =     12.2 : 1.0
+     contains(ludicrous) = True              neg : pos    =     11.7 : 1.0
+        contains(smooth) = True              pos : neg    =     11.1 : 1.0
+       contains(insipid) = True              neg : pos    =     10.9 : 1.0
+   contains(mesmerizing) = True              pos : neg    =     10.4 : 1.0
+     contains(atrocious) = True              neg : pos    =     10.3 : 1.0
+      contains(thematic) = True              pos : neg    =      9.7 : 1.0
+         contains(anger) = True              pos : neg    =      9.5 : 1.0

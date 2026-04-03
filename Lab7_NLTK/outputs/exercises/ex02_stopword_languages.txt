@@ -1,0 +1,38 @@
+Exercise 02 - Stopword languages
+Demo call: exercise_02_stopword_languages()
+
+Number of languages: 33
+Languages:
+albanian
+arabic
+azerbaijani
+basque
+belarusian
+bengali
+catalan
+chinese
+danish
+dutch
+english
+finnish
+french
+german
+greek
+hebrew
+hinglish
+hungarian
+indonesian
+italian
+kazakh
+nepali
+norwegian
+portuguese
+romanian
+russian
+slovene
+spanish
+swedish
+tajik
+tamil
+turkish
+uzbek

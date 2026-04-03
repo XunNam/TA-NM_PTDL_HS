@@ -1,0 +1,7 @@
+Exercise 11 - Names corpus counts
+Demo call: exercise_11_names_count()
+
+Male name count: 2943
+Female name count: 5001
+First 10 male names: ['Aamir', 'Aaron', 'Abbey', 'Abbie', 'Abbot', 'Abbott', 'Abby', 'Abdel', 'Abdul', 'Abdulkarim']
+First 10 female names: ['Abagael', 'Abagail', 'Abbe', 'Abbey', 'Abbi', 'Abbie', 'Abby', 'Abigael', 'Abigail', 'Abigale']

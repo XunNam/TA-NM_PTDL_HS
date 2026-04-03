@@ -1,0 +1,45 @@
+================================================================================
+SECTION 05 - NGRAMS AND COLLOCATIONS
+================================================================================
+Cleaned token count: 10078
+
+Top 15 bigrams:
+ 1. enter macbeth -> 16
+ 2. exeunt scena -> 15
+ 3. thane cawdor -> 13
+ 4. knock knock -> 10
+ 5. st thou -> 9
+ 6. thou art -> 9
+ 7. lord macb -> 9
+ 8. haue done -> 8
+ 9. macb haue -> 8
+10. good lord -> 8
+11. let vs -> 7
+12. enter lady -> 7
+13. wee l -> 7
+14. would st -> 6
+15. macbeth macb -> 6
+
+Top 10 trigrams:
+ 1. knock knock knock -> 6
+ 2. enter macbeth macb -> 5
+ 3. enter three witches -> 4
+ 4. exeunt scena secunda -> 4
+ 5. good lord macb -> 4
+ 6. exeunt scena tertia -> 3
+ 7. thunder enter three -> 3
+ 8. ile doe ile -> 3
+ 9. exeunt scena quarta -> 3
+10. scena prima enter -> 3
+
+Top 10 collocations by PMI (frequency >= 2):
+ 1. menteth cathnes
+ 2. prince cumberland
+ 3. hoboyes torches
+ 4. musicke song
+ 5. hayle hayle
+ 6. mouncht mouncht
+ 7. ten thousand
+ 8. cathnes angus
+ 9. dy de
+10. pallace gate

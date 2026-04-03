@@ -1,0 +1,35 @@
+================================================================================
+SECTION 01 - INTRODUCTION TO NLTK
+================================================================================
+NLTK version: 3.9.4
+
+Gutenberg corpus file IDs:
+austen-emma.txt
+austen-persuasion.txt
+austen-sense.txt
+bible-kjv.txt
+blake-poems.txt
+bryant-stories.txt
+burgess-busterbrown.txt
+carroll-alice.txt
+chesterton-ball.txt
+chesterton-brown.txt
+chesterton-thursday.txt
+edgeworth-parents.txt
+melville-moby_dick.txt
+milton-paradise.txt
+shakespeare-caesar.txt
+shakespeare-hamlet.txt
+shakespeare-macbeth.txt
+whitman-leaves.txt
+
+Macbeth summary:
+Total words: 23140
+First 10 words: ['[', 'The', 'Tragedie', 'of', 'Macbeth', 'by', 'William', 'Shakespeare', '1603', ']']
+
+First 5 sentences:
+1. [ The Tragedie of Macbeth by William Shakespeare 1603 ]
+2. Actus Primus .
+3. Scoena Prima .
+4. Thunder and Lightning .
+5. Enter three Witches .
